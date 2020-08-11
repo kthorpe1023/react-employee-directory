@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Scott",
+      "image":
+        "https://pmctvline2.files.wordpress.com/2011/04/mscott_crying_514110425140157.jpg?w=514",
+      "occupation": "Regional Manager",
+      "location": "Scranton, PA"
+    },
+    {
+      "id": 2,
+      "name": "Jan Levinson",
+      "image":
+        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "occupation": "Restaurant Owner",
+      "location": "Corporate HQ, New York City"
+    },
+    {
+      "id": 3,
+      "name": "Jim Halpert",
+      "image":
+        "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "occupation": "Salesman",
+      "location": "Scranton, PA"
+    },
+    {
+        "id": 4,
+        "name": "Dwight Schrute",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "occupation": "Salesmane, Assistant to the Regional Manager",
+        "location": "Scranton, PA"
+      },
+      {
+        "id": 5,
+        "name": "Oscar Martinez",
+        "image":
+          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "occupation": "Accountant",
+        "location": "Scranton, PA"
+      },
+      {
+        "id": 6,
+        "name": "Angela Martin",
+        "image":
+          "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "occupation": "Accountant",
+        "location": "Scranton, PA"
+      },
+      {
+        "id": 7,
+        "name": "David Wallace",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "occupation": "CFO",
+        "location": "Corporate HQ, New York City"
+      },
+      {
+        "id": 8,
+        "name": "Andy Bernard",
+        "image":
+          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "occupation": "Salesman",
+        "location": "Stamford, CT"
+      },
+      {
+        "id": 9,
+        "name": "Karen Filipelli",
+        "image":
+          "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "occupation": "Salesman",
+        "location": "Stamford, CT"
+      },
+      {
+        "id": 10,
+        "name": "Holly Flax",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "occupation": "Human Resources Representative",
+        "location": "Stamford, CT"
+      },
+      {
+        "id": 11,
+        "name": "Toby Flenderson",
+        "image":
+          "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "occupation": "Human Resources Representative",
+        "location": "Scranton, PA"
+      },
+      {
+        "id": 12,
+        "name": "Pam Beasley",
+        "image":
+          "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+        "occupation": "Reception",
+        "location": "Scranton, PA"
+      }
+  ]
