@@ -57,7 +57,7 @@
         "id": 7,
         "name": "David Wallace",
         "image":
-          "https://i.redd.it/1ywj9ugju4b21.jpg",
+          "https://i.pinimg.com/originals/55/d3/dc/55d3dc9587176902eef7a2414e4b0c42.png",
         "occupation": "CFO",
         "location": "Corporate HQ, New York City",
         "winner": true
@@ -75,7 +75,7 @@
         "id": 9,
         "name": "Karen Filipelli",
         "image":
-          "https://www.cheatsheet.com/wp-content/uploads/2020/05/rashida-jones-the-office-1.jpg",
+          "https://i.redd.it/vigerabg4x7z.jpg",
         "occupation": "Salesman",
         "location": "Stamford, CT",
         "winner": true
@@ -120,7 +120,7 @@
         "id": 14,
         "name": "Phyllis Vance",
         "image":
-          "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/11/Phyllis-Lapin-Vance.jpg",
+          "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/11/Phyllis-The-Office.jpg",
         "occupation": "Salesman",
         "location": "Scranton, PA",
         "winner": true
@@ -129,7 +129,7 @@
         "id": 15,
         "name": "Darryl Philbin",
         "image":
-          "https://cdn.costumewall.com/wp-content/uploads/2017/04/darryl-philbin.jpg",
+          "https://lh3.googleusercontent.com/proxy/U5JLfUfRV4Fvh2DNV83-IdIkQi_MsUaegzf-JixrKvyVwmZ7eEZxyM8Mb2JWdnwPBIdXieX94BB7tWnSLsU4ayM89QGynhWOtadoWjlQiC-j0w2j3cWzyLq43SxIdAzB_X4UHFKMHAD4s_WW1aoEcorqN23q",
         "occupation": "Foreman",
         "location": "Scranton, PA",
         "winner": false
