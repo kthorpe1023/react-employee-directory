@@ -9,3 +9,9 @@
     align-content: flex-start;
     overflow: auto;
   }
+
+  .img {
+    background-image: url("https://st.depositphotos.com/1353632/1331/v/950/depositphotos_13312672-stock-illustration-papers-background.jpg");
+    width: 100%;
+
+  }

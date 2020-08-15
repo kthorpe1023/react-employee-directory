@@ -7,29 +7,18 @@ import Filter from "./components/Filter/index.js"
 
 class App extends React.Component {
 state = {
-    employees: employees
+    employees: employees,
+    name: ""
 };
-
-winners = (winner) => {
-    const employees = this.state.employees.filter(employee => employee.winner === true);
-    this.setState({employees: employees})
-};
-
-losers = (winner) => {
-    const employees = this.state.employees.filter(employee => employee.winner === false);
-    this.setState({employees: employees})
-}
-
 
 render() {
     return (
     <Wrapper>
-        <Header></Header>
-        <Filter></Filter>
+        <Header />
+        <Filter />
         {this.state.employees.map((employee) => (
         <EmployeeList
-        winners={this.winners}
-        loser={this.losers}
+        winner={this.winner}
         key={employee.id}
         name={employee.name}
         image={employee.image}
