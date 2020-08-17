@@ -24,9 +24,6 @@ function Filter(props){
   onChange = {props.handleInputChange}
   placeholder="Search employee's name" 
   name="input"></input>
-  {/* <div class="input-group-append">
-    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Search</button>
-  </div> */}
 </div>
     </div>
     </div>
