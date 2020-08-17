@@ -2,8 +2,7 @@
     {
       "id": 1,
       "name": "Michael Scott",
-      "image":
-        "https://pmctvline2.files.wordpress.com/2011/04/mscott_crying_514110425140157.jpg?w=514",
+      "image": "../img/MScott.jpg",
       "occupation": "Regional Manager",
       "location": "Scranton, PA",
       "winner": false
@@ -11,9 +10,8 @@
     {
       "id": 2,
       "name": "Jan Levinson",
-      "image":
-        "https://i.pinimg.com/originals/42/2d/47/422d4798257f5e8c893ea72dc21dd0ae.png",
-      "occupation": "Restaurant Owner",
+      "image": "static/img/JLevinson.png",
+      "occupation": "Supplies Director",
       "location": "Corporate HQ, New York City",
       "winner": false
     },
@@ -158,6 +156,33 @@
         "image":
           "https://media.tenor.com/images/a3bf2188e1cbf57b0c23a9b30a929119/raw",
         "occupation": "Temp",
+        "location": "Scranton, PA",
+        "winner": false
+      },
+      {
+        "id": 19,
+        "name": "Creed Bratton",
+        "image":
+          "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F01%2Fthe-office-2000.jpg",
+        "occupation": "Quality Assurance",
+        "location": "Scranton, PA",
+        "winner": false
+      },
+      {
+        "id": 20,
+        "name": "Meredith Palmer",
+        "image":
+          "https://i.insider.com/5c816739eb3ce87800380e94?width=1100&format=jpeg&auto=webp",
+        "occupation": "Supplier Relations",
+        "location": "Scranton, PA",
+        "winner": false
+      },
+      {
+        "id": 21,
+        "name": "Erin Hannon",
+        "image":
+          "https://cdn3.whatculture.com/images/2019/01/0e491f79b3ab6e97-600x338.jpg",
+        "occupation": "Reception",
         "location": "Scranton, PA",
         "winner": false
       }
