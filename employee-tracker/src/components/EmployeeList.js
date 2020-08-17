@@ -6,7 +6,7 @@ function EmployeeList(props) {
 <div className="card mb-3 size">
   <div className="row no-gutters">
     <div className="col-md-12">
-      <img src={props.image} class="card-img-top img-size" alt={props.name}></img>
+      <img src={props.image} className="card-img-top img-size" alt={props.name}></img>
     </div>
     <div className="col-md-12">
       <div className="card-body">

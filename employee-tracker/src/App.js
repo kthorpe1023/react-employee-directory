@@ -17,9 +17,14 @@ class App extends React.Component {
     };
     
     losers = () => {
+        // const {name, value} = event.target
         const employees = this.state.employees.filter(employee => employee.winner === false);
         this.setState({employees: employees})
     };
+
+    clear = () => {
+        this.setState({employees:employees})
+    }
     
     handleInputChange = event => {
         // Getting the value and name of the input which triggered the change
@@ -38,7 +43,12 @@ render() {
     return (
     <Wrapper>
         <Header />
-        <Filter value={this.state.input} handleInputChange={this.handleInputChange} />
+        <Filter 
+        value={this.state.input} 
+        handleInputChange={this.handleInputChange} 
+        handleWin={this.winners} 
+        handleLoss={this.losers}
+        handleClear={this.clear}/>
         {this.state.employees.map((employee) => {
             if(employee.name.toLowerCase().includes(this.state.input.toLowerCase()))
             return(   <EmployeeList
@@ -48,8 +58,26 @@ render() {
                 image={employee.image}
                 occupation={employee.occupation}
                 location={employee.location}
-            />)
+            />); 
+            // else if (employee.winner===true)
+            // return(<EmployeeList
+            //     winner={this.winner}
+            //     key={employee.id}
+            //     name={employee.name}
+            //     image={employee.image}
+            //     occupation={employee.occupation}
+            //     location={employee.location}
+            // />); else if (employee.winner===false)
+            // return(<EmployeeList
+            //     winner={this.winner}
+            //     key={employee.id}
+            //     name={employee.name}
+            //     image={employee.image}
+            //     occupation={employee.occupation}
+            //     location={employee.location}
+            // />)
         })}
+        
     </Wrapper>
     )
 }

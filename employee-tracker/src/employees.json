@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Michael Scott",
-      "image": "../img/MScott.jpg",
+      "image": "https://img1.looper.com/img/gallery/michael-scott-moments-that-made-us-cringe/intro-1562178435.jpg",
       "occupation": "Regional Manager",
       "location": "Scranton, PA",
       "winner": false
@@ -10,7 +10,7 @@
     {
       "id": 2,
       "name": "Jan Levinson",
-      "image": "static/img/JLevinson.png",
+      "image": "https://i.pinimg.com/originals/42/2d/47/422d4798257f5e8c893ea72dc21dd0ae.png",
       "occupation": "Supplies Director",
       "location": "Corporate HQ, New York City",
       "winner": false
@@ -185,6 +185,42 @@
         "occupation": "Reception",
         "location": "Scranton, PA",
         "winner": false
+      },
+      {
+        "id": 22,
+        "name": "Jo Bennett",
+        "image":
+          "https://i.redd.it/d4dlspoxxhw21.jpg",
+        "occupation": "CEO",
+        "location": "Tampa, FL",
+        "winner": true
+      },
+      {
+        "id": 23,
+        "name": "Todd Packer",
+        "image":
+          "https://i.ytimg.com/vi/2MnZPX8BM-I/maxresdefault.jpg",
+        "occupation": "Traveling Sales",
+        "location": "Scranton, PA",
+        "winner": false
+      },
+      {
+        "id": 24,
+        "name": "Madge Madson",
+        "image":
+          "https://qph.fs.quoracdn.net/main-qimg-a69d551261a113450ea52d24d8d0d84a",
+        "occupation": "Warehouse Worker",
+        "location": "Scranton, PA",
+        "winner": true
+      },
+      {
+        "id": 25,
+        "name": "Val Johnson",
+        "image":
+          "https://i.insider.com/5b7476f13cccd11f008b45ff?width=750&format=jpeg&auto=webp",
+        "occupation": "Warehouse Worker",
+        "location": "Scranton, PA",
+        "winner": true
       }
 
   ]
